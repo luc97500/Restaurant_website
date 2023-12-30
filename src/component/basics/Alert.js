@@ -1,4 +1,4 @@
-import React from 'react'//test
+import React from 'react'//alert changes
 
 function Alert() {
   return (
